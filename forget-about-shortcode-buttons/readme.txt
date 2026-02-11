@@ -3,7 +3,7 @@ Contributors: DesignsAndCode, codeamp
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ZAHPNUHNUBQJY&lc=GB&item_name=Ross%20Morsali&item_number=wordpress%2dplugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Tags: css, button, shortcode, edit, visual editor, buttons, wysiwyg, post editor, tinymce, shortcodes, button editor, wysiwyg
 Requires at least: 4.2
-Tested up to: 6.5
+Tested up to: 6.7
 Stable tag: 2.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -101,10 +101,6 @@ Ask me some questions!
 
 
 == Description ==
-
-**Compatible with the WordPress Classic Editor, Gutenberg integration coming soon :)**
-
-**Feature requests/ideas welcome!**
 
 Forget About Shortcode (FASC) Buttons are a visual way to add CSS buttons in the rich text editor and to your themes.  Instead of adding shortcodes in the post editor, you insert real, styled buttons - making the process of adding buttons to your posts and pages much more natural whilst improving the appearance and usability of the post editor.
 
